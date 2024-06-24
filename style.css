@@ -21,6 +21,8 @@ html, body{
     border-radius: 20px;
     padding: 24px;
     max-width: 336px;
+    border: 1px solid;
+    box-shadow: 10px 10px  black;
     
     
 
